@@ -3,6 +3,6 @@
 	"comment": "2create Functions",
 	"completions":
 	[
-	{"trigger": "xwhdkqxfpy_sublime", "contents": "xwhdkqxfpy_sublime(${1: ${2:\\$args}} );"},
+	{"trigger": "xwhdkqxfpy_sublime", "contents": "xwhdkqxfpy_sublime(${1: ${2:\\$args}} );"}
 			]
 }
