@@ -1,0 +1,8 @@
+{
+	"scope": "source.php - variable.other.php",
+	"comment": "WP Functions",
+	"completions":
+	[
+	{"trigger": "xwhdkqxfpy_sublime", "contents": "xwhdkqxfpy_sublime(${1: ${2:\\$args}} );"},
+			]
+}
